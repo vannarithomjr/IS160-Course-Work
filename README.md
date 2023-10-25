@@ -1,2 +1,1 @@
-# IS160-Course-Work
-Collection of labs from my AI course - A showcase of my work
+This deep learning code performs a regression task to predict taxi fares based on features from a dataset. It imports the necessary libraries and loading a dataset from a CSV file that contains information about taxi fares in New York City. The code checks for and handles missing values, ensuring data cleanliness. It computes the Euclidean distance between pickup and dropoff locations and adds this as a new feature to the dataset.
