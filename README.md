@@ -1,2 +1,1 @@
-# IS160-Course-Work
-Collection of labs from my AI course - A showcase of my work
+All of the contained codes are deep learning codes that involve training neural network models for different tasks, but they share some common steps in the deep learning workflow. While all the included codes have different use cases, they share common steps in deep learning, including data preprocessing, model construction, compilation, training, and visualization of results. These common steps are essential in most deep learning projects.
