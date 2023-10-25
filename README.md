@@ -1,2 +1,1 @@
-# IS160-Course-Work
-Collection of labs from my AI course - A showcase of my work
+The provided code showcases two implementations of a neural network model for classifying handwritten digits from the MNIST dataset. Both implementations aim to create and train neural network models for digit classification using the MNIST dataset, but they differ in their network architectures and some specifics of data preprocessing and training configurations.
