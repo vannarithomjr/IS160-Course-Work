@@ -1,1 +1,1 @@
-This file contains a printed email where lab partner, Bee Chang approved organization and content of this course binder.
+This branch contains a printed email where my lab partner, Bee Chang, approved the organization and content of this course binder.
