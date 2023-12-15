@@ -14,4 +14,6 @@
 
 [7-AWS-DeepRacer-for-RL-Concept](https://github.com/vannarithomjr/IS160-Course-Work/tree/7-AWS-DeepRacer-for-RL-Concept)
 
+[8-Responsible-AI](https://github.com/vannarithomjr/IS160-Course-Work/tree/8-Responsible-AI)
+
 [Lab-Partner-Binder-Approval](https://github.com/vannarithomjr/IS160-Course-Work/tree/Lab_Partner_Binder_Approval)
