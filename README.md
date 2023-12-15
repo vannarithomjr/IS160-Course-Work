@@ -16,4 +16,6 @@
 
 [8-Responsible-AI](https://github.com/vannarithomjr/IS160-Course-Work/tree/8-Responsible-AI)
 
+[9-AI-Implementation](https://github.com/vannarithomjr/IS160-Course-Work/tree/9-AI-Implementation)
+
 [Lab-Partner-Binder-Approval](https://github.com/vannarithomjr/IS160-Course-Work/tree/Lab_Partner_Binder_Approval)
