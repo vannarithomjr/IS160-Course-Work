@@ -1,12 +1,1 @@
-# IS160-Course-Work
-**Collection of labs from my AI course - A showcase of my work.**
-
-**By Vannarith Om**
-
-**Instructor: Dr. Stephen Choi**
-
-This repository contains key projects that exemplify the behavior of models within a Deep Learning environment.
-
-Given the exponential growth of AI tools in the business sector, it is essential to comprehend and adapt to the new demands, not only within the IT domain but also across various other areas experiencing this transition. Simultaneously, this transformation enhances the individual's competence to meet technological requirements in the business world.
-
-[Table of contents](https://github.com/vannarithomjr/IS160-Course-Work/tree/0-Table-of-contents)
+This lab takes the previous scenarios examples from the previous lab assignent to explore the nature of the Markov Decision Process. The Bellman equation is also implemented ineach scenario to ensure the student understands this important process of Reinforcement Learning.
