@@ -1,12 +1,10 @@
-# IS160-Course-Work
-**Collection of labs from my AI course - A showcase of my work.**
+In this lab, students are expected to design and implement an AI-based system incorporating each step that promotes ethical and optimal functioning. The students will follow these stages:
 
-**By Vannarith Om**
+Ideation
+Project Definition
+Data Curation
+Prototyping
+Production
+Maintaining and improving the AI through its lifecycle
 
-**Instructor: Dr. Stephen Choi**
-
-This repository contains key projects that exemplify the behavior of models within a Deep Learning environment.
-
-Given the exponential growth of AI tools in the business sector, it is essential to comprehend and adapt to the new demands, not only within the IT domain but also across various other areas experiencing this transition. Simultaneously, this transformation enhances the individual's competence to meet technological requirements in the business world.
-
-[Table of contents](https://github.com/vannarithomjr/IS160-Course-Work/tree/0-Table-of-contents)
+  In this case, students decided to develp an information system to decide if the plot of land is viable for construction.
