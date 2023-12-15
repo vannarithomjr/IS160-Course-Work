@@ -12,4 +12,6 @@
 
 [6-Markov-Decision-Process](https://github.com/vannarithomjr/IS160-Course-Work/tree/6-Markov-Decision-Process)
 
+[7-AWS-DeepRacer-for-RL-Concept](https://github.com/vannarithomjr/IS160-Course-Work/tree/7-AWS-DeepRacer-for-RL-Concept)
+
 [Lab-Partner-Binder-Approval](https://github.com/vannarithomjr/IS160-Course-Work/tree/Lab_Partner_Binder_Approval)
