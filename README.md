@@ -1,12 +1,1 @@
-# IS160-Course-Work
-**Collection of labs from my AI course - A showcase of my work.**
-
-**By Vannarith Om**
-
-**Instructor: Dr. Stephen Choi**
-
-This repository contains key projects that exemplify the behavior of models within a Deep Learning environment.
-
-Given the exponential growth of AI tools in the business sector, it is essential to comprehend and adapt to the new demands, not only within the IT domain but also across various other areas experiencing this transition. Simultaneously, this transformation enhances the individual's competence to meet technological requirements in the business world.
-
-[Table of contents](https://github.com/vannarithomjr/IS160-Course-Work/tree/0-Table-of-contents)
+This assignment focuses on putting into practice the knowledge of reinforcement learning (RL) gained through AWS DeepRacer. The student built an RL model virtual car that can learn on its own based on the reward function and training configuration. The training configuration includes the time the model spent on training, the track it was trained on, and the type of algorithm given to it.
