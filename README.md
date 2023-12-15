@@ -8,4 +8,5 @@
 
 [4-Big-City-Taxi-Fare-DL-Model](https://github.com/vannarithomjr/IS160-Course-Work/tree/4-Big-City-Taxi-Fare-DL-Model)
 
+[5-RL-Diagram]()
 [Lab-Partner-Binder-Approval](https://github.com/vannarithomjr/IS160-Course-Work/tree/Lab_Partner_Binder_Approval)
